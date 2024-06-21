@@ -1,0 +1,21 @@
+
+1. Installation of NS3, NetAnim and Wireshark on Linux
+2. Create a simple topology and simulate traffic between two
+nodes using Pygraphviz and NetAnim.--first.cc
+3. Create a bus topology, assign IPv4 addresses, and animate a
+simple network using NetAnim in Network Simulator.----> second.cc,Tracemetrics
+4.: Create a hybrid topology, and animate a simple network using
+NetAnim in Network Simulator.-------> third.cc
+5. Write an NS3 program to simulate a star topology.--- star.cc-- examples/tcp/star.cc scratch/star.cc
+
+6. : Write an ns3 program to simulate a mesh topology and analyze
+the .pcap file using Wireshark.------>mesh.cc---src/mesh/examples/mesh.cc scratch/mesh.cc
+
+7.: Introduction to NetAnim and Animation a network using
+NetAnim---> first.cc
+8. Program to simulate DHCP server and n clients---->src/internet-apps/models/ dhcp-example.cc
+9.  UDP Client Server Program using Java (Eclipse) OR C in NS3
+10. : Animate Three way handshake for TCP connection using
+NetAnim-- tcp-star-server.cc
+11. Program to simulate FTP using TCP protocol--
+12. Monitoring the Network using WireShark---Wireshark + first.cc
